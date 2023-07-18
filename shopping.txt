@@ -3,5 +3,6 @@
 ||zalando-lounge.de^
 ||customer-iam.zalandoapis.com^
 ||config.zlounge.zalan.do^
-||accounts.zalando.com^
-
+||zalando.com^
+||hm.com^
+||c-and-a.com^
