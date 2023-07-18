@@ -1,0 +1,7 @@
+||zalando.be^
+||zalando.de^
+||zalando-lounge.de^
+||customer-iam.zalandoapis.com^
+||config.zlounge.zalan.do^
+||accounts.zalando.com^
+
