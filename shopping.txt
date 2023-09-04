@@ -6,3 +6,8 @@
 ||zalando.com^
 ||hm.com^
 ||c-and-a.com^
+||instagram.com^
+||facebook.com^
+||fb.com^
+||fb.me^
+||messenger.com^
