@@ -474,7 +474,7 @@
         ]
       },
       {
-        "name": "Game Console Adblock List",
+        "name": "Dandelion Sprout's Game Console Adblock List",
         "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt",
         "type": "adblock",
         "transformations": [
@@ -866,6 +866,86 @@
       {
         "name": "Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole by ph00lt0",
         "source": "https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "1Hosts (Lite)",
+        "source": "https://badmojr.gitlab.io/1hosts/Lite/adblock.txt",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "The NoTracking blocklist",
+        "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "Steven Black's List",
+        "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "Dandelion Sprout's Anti Push Notifications",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "HaGeZi's Allowlist Referral",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "POL: CERT Polska List of malicious domains",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "Stalkerware Indicators List",
+        "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+        "type": "adblock",
+        "transformations": [
+          "RemoveComments",
+          "Compress",
+          "Validate"
+        ]
+      },
+      {
+        "name": "ShadowWhisperer's Malware List",
+        "source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
         "type": "adblock",
         "transformations": [
           "RemoveComments",
